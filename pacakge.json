@@ -1,0 +1,20 @@
+{"name" : "webtube",
+"version" : "1.0.0",
+"description" : "The best way to watch videos in the sh",
+"main" : "index.js",
+"repository" : {
+    "type" : "git" ,
+    "url" : "git+https://github.com/Taegu789/Webtube.git"
+},
+"author" : "Taegyu in the Siheung <gvfc789@naver.com>",
+"license" : "MIT",
+"bugs" : {
+    "url" : "https://github.com/Taegu789/Webtube/issues"
+},
+"homepage" : "https://github.com/Taegu789/Webtube#readme"
+}
+
+
+
+
+
